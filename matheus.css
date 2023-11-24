@@ -9,6 +9,7 @@ body {
 h1{
   text-align: center
 }
+
 P {
   text-align: center;
 }
@@ -19,4 +20,8 @@ P {
 
 em strong {
   color: #FF0000;
+}
+
+.itens{
+  font-style: italic
 }
